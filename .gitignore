@@ -1,5 +1,6 @@
 *.pyc
 *.idea
+*.iml
 *.db
 *.db-journal
 *.sass-cache
